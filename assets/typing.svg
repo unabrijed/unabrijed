@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="536" height="42" viewBox="0 0 536 42" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace">
+<defs>
+<style>@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}} .cur{animation:blink 1s step-end infinite} text{font-size:16px}</style>
+<clipPath id="type"><rect x="33.2" y="0" height="42" width="0"><animate attributeName="width" values="0.0;481.0;481.0;0.0;0.0" keyTimes="0;0.42;0.56;0.92;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<text x="14" y="27" fill="#56d364" font-weight="bold">$ </text>
+<g clip-path="url(#type)"><text x="33.2" y="27" fill="#c9d1d9">leverage-first infrastructure for on-chain markets</text></g>
+<rect class="cur" y="13" width="9" height="17" fill="#56d364"><animate attributeName="x" values="33.2;514.2;514.2;33.2;33.2" keyTimes="0;0.42;0.56;0.92;1" dur="7s" repeatCount="indefinite"/></rect>
+</svg>
